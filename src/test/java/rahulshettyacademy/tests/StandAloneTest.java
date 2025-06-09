@@ -45,7 +45,7 @@ public class StandAloneTest extends BaseTest {
         Assert.assertTrue(confirmMessage.equalsIgnoreCase("THANKYOU FOR THE ORDER."));
         
         System.out.println("GitHub Success");
-        System.out.print("Done");
+        System.out.println("Done2");
         
        //Close the browser
        //driver.close();
