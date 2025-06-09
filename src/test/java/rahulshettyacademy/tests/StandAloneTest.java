@@ -46,6 +46,7 @@ public class StandAloneTest extends BaseTest {
         
         System.out.println("GitHub Success");
         System.out.print("Done1");
+        System.out.println("Done2");
         
        //Close the browser
        //driver.close();
