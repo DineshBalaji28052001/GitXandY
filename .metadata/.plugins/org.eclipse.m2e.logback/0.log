@@ -1,0 +1,20 @@
+2025-06-09 21:13:18,999 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-06-09 21:13:46,268 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: rahulshettyacademy:SeleniumFrameworkDesign:0.0.1-SNAPSHOT @ D:\GitX1\pom.xml.
+2025-06-09 21:13:47,275 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumFrameworkDesign/src/main/java
+2025-06-09 21:13:47,282 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SeleniumFrameworkDesign/src/main/resources
+2025-06-09 21:13:47,284 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SeleniumFrameworkDesign/src/test/java
+2025-06-09 21:13:47,284 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SeleniumFrameworkDesign/src/test/resources
+2025-06-09 21:13:47,489 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2025-06-09 21:13:49,775 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\main\resources
+2025-06-09 21:13:49,780 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\test\resources
+2025-06-09 21:15:57,199 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\main\resources
+2025-06-09 21:15:57,201 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\test\resources
+2025-06-09 21:41:56,518 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\main\resources
+2025-06-09 21:41:56,521 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\test\resources
+2025-06-09 21:42:15,282 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\main\resources
+2025-06-09 21:42:15,285 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\test\resources
+2025-06-09 21:42:37,757 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\main\resources
+2025-06-09 21:42:37,765 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\test\resources
+2025-06-09 21:46:44,026 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\main\resources
+2025-06-09 21:46:44,026 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\test\resources
+2025-06-10 07:07:31,995 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
