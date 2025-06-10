@@ -2,7 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+<<<<<<< HEAD
 			<item value="D:\GitY1\GitXandY"/>
+=======
+>>>>>>> 9cb84dd96ed0b41fdca8d02263748029ed9677ea
 			<item value="D:\GitX1"/>
 		</list>
 		<list key="projectNameTemplate">
