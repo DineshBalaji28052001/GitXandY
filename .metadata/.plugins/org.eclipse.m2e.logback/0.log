@@ -30,3 +30,12 @@
 2025-06-09 21:08:52,581 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
 >>>>>>> c9d4ce8e0bd9803fc65bc242d6af40fb91dff7bf
 >>>>>>> 9cb84dd96ed0b41fdca8d02263748029ed9677ea
+2025-06-10 08:01:03,113 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-06-10 08:01:24,113 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\main\resources
+2025-06-10 08:01:24,118 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\test\resources
+2025-06-10 08:01:53,896 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\main\resources
+2025-06-10 08:01:53,899 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\test\resources
+2025-06-10 08:02:08,811 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\main\resources
+2025-06-10 08:02:08,813 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\test\resources
+2025-06-10 08:02:10,108 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\main\resources
+2025-06-10 08:02:10,109 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\GitX1\src\test\resources
